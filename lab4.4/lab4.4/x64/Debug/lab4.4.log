@@ -1,0 +1,3 @@
+﻿  lab4.4.cpp
+X:\Studio\lab4.4\lab4.4\lab4.4.cpp(8,24): warning C4101: c: неиспользованная локальная переменная
+  lab4.4.vcxproj -> X:\Studio\lab4.4\x64\Debug\lab4.4.exe
